@@ -1,0 +1,119 @@
+body{
+    height: 100%;
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    box-sizing: border-box;
+}
+#ulone{
+    position: absolute;
+    left: 20px;
+    top: 4px;
+    }
+#lione{
+display:inline-block;
+color: rgb(243, 74, 8);
+background-color: rgb(248, 240, 243);
+margin: 0px;
+padding: 10px;
+border-radius: 30px;
+}
+#ultwo{
+position: absolute;
+right: 20px;
+top: 4px;
+}
+#litwo{
+display:inline-block;
+color: rgb(217, 248, 248);
+background-color: rgb(252, 126, 8);
+margin: 0px;
+padding: 10px;
+border-radius: 30px;
+}
+#hoc{
+    position: relative;
+    top: 70px;
+    text-align: center;
+    text-shadow:5px 2px 2px #cf6925,-3px 6px 5px #f50af5;
+    font-size: 40px;
+    color: darkorange;
+    text-indent: 10px;
+    font-style:italic;
+
+}
+#search{
+    background-color: rgb(231, 0, 252);
+    top: 15px;
+    left: 800px;
+    position: relative;
+}
+#lithree{
+position: relative;
+top: 40px;
+display:inline-block;
+color: rgb(243, 74, 8);
+background-color: rgb(248, 240, 243);
+margin: 5px;
+padding: 5px;
+border-radius: 30px;
+
+}
+#lifour{
+    position: relative;
+    top: 30px;
+    display:inline-block;
+    color: rgb(243, 74, 8);
+    background-color: rgb(248, 240, 243);
+    margin: 10px;
+    padding: 10px;
+}
+img{
+    margin: 20px;
+    position: relative;
+    width:90%;
+    height: auto;
+   /* filter: blur(1px);*/
+    border: black;
+    border-style: solid;
+    
+}
+#lifive1{
+    position: absolute;
+    background-color:rgb(253, 250, 250) ;
+    width: 300px;
+    height: 200px;
+    border-radius:50px;
+    text-align: center;
+    top: 800px;
+    left: 50px;
+    border-color: black;
+    border-style: solid;
+}
+#lifive2{
+    position: absolute;
+    background-color:rgb(253, 251, 251) ;
+    width: 300px;
+    height: 200px;
+    border-radius:50px;
+    text-align: center;
+    top:800px;
+    right: 50px;
+    border-color: black;
+    border-style: solid;
+}
+#lifive3{
+    position: absolute;
+    background-color:rgb(252, 246, 246) ;
+    width: 300px;
+    height: 200px;
+    border-radius:50px;
+    text-align: center;
+    top: 780px;
+    left: 353px;
+
+    border-color: black;
+    border-style: solid;
+}
